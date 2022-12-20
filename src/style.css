@@ -1,0 +1,25 @@
+body {
+  background-color:#EFA45D;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: darkblue;
+  font-size: 30px;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: blue;
+}
